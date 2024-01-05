@@ -5,6 +5,9 @@ Project 2 Due Jan 4, 2024 by 11:59pm
 
 
 
+Mikel's part
+
+Create the Contacts DataFrame
 
 I used 13.1 activity 2 and 3 to help with reading the csv file and creating a dataframe.
 I used 13.1 activity 5 to add column names and split the data.
