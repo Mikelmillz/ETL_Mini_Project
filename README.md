@@ -16,3 +16,7 @@ I was getting int32 instead of int64 so I looked at this site which helped me ch
 The next part was still using 13.1 activity 7 information. Then it was back to 13.1 activity 5  to manipulate columns and spitting the data.
 
 I didn't put the .info since we have been used it often in the past so it is just known as well as ordering columns. The export to csv's were given though we have done them before as well.
+
+Creating the sql and ERD
+
+I really just looked at my sql-challenge and changed what I needed to to fit the data given from the new csv's.
